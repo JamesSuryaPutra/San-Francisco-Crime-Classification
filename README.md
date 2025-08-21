@@ -1,5 +1,6 @@
 # San Francisco Crime Classification
-![sfcrime_banner](https://github.com/JamesSuryaPutra/San-Francisco-Crime-Classification/assets/155945814/449fcfa8-2b09-4f54-8c60-5c470d2b3606)
+<img width="305" height="165" alt="image" src="https://github.com/user-attachments/assets/8c698d65-64c1-4818-9199-703b40ec25a5" />
+
 
 # Description
 From 1934 to 1963, San Francisco was infamous for housing some of the world's most notorious criminals on the inescapable island of Alcatraz.
