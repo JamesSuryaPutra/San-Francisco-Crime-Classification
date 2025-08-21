@@ -1,5 +1,5 @@
 # San Francisco Crime Classification
-<img width="305" height="165" alt="image" src="https://github.com/user-attachments/assets/8c698d65-64c1-4818-9199-703b40ec25a5" />
+<img width="1600" height="867" alt="image" src="https://github.com/user-attachments/assets/61aec2e7-ae3c-442c-8cb9-bb3217983a80" />
 
 
 # Description
